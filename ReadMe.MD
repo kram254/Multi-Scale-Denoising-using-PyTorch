@@ -2,6 +2,12 @@
 
 This is a Python project that demonstrates how to use PyTorch to build a deep neural network for multi-scale image denoising. The project uses a custom implementation of a multi-scale denoising algorithm that combines information from two different scales to produce a clean image.
 
+
+
+https://user-images.githubusercontent.com/33391934/235365239-b72b7ad4-bf6e-46bf-9bcf-ceac09ae788f.mp4
+
+
+
 ## Requirements
 Python 3.6 or higher
 PyTorch 1.8.1 or higher
